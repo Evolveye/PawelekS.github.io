@@ -61,8 +61,8 @@ const projectsData = [
   },
   {
     title: {
-      pl: `Blog`,
-      en: `Blog (polish only)`,
+      pl: `Devlog`,
+      en: `Devlog (polish only)`,
     },
     onlyLangKey: `pl`,
     fluidName: `quote`,

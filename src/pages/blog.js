@@ -50,7 +50,10 @@ export default ({ pageContext:{ langKey=`en` }={} }) => {
   const queryData = useStaticQuery( query )
 
   return <Layout title="Blog" langKey={langKey}>
-    <h1 className="boxed-title is-green">Ostatnio dodane wpisy</h1>
+    <h1 className="boxed-title is-green">Devlog</h1>
+
+    <strong className="boxed-title is-red">Treść w remoncie</strong>
+
     <section>
       { !queryData.allMdx.nodes.length
         ?
