@@ -134,11 +134,15 @@ export class Component extends React.Component {
 
     ctx.clearRect( 0, 0, ctx.canvas.width, ctx.canvas.height )
   }
+  reset = () => {
+    this.createQTree()
+    this.clear()
+  }
 
   render = () =>
     <>
       <article className={this.props.uiClass}>
-        <button className="neumorphizm-white" onClick={this.clear}>
+        <button className="neumorphizm-white" onClick={this.reset}>
           {this.langKey === `pl` ? `Wyczyść` : `Clear`}
         </button>
         <label>

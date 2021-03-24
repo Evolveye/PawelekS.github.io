@@ -73,7 +73,7 @@ export default ({ langKey, theme, themeChanger }) => {
       data: {
         fluid: `linkedinLogo`,
         links: [
-          { address:`https://github.com/Evolveye`, name: langKey === `pl` ? `Profil` : `Profile` }
+          { address:`https://www.linkedin.com/in/paweł-stolarski/`, name: langKey === `pl` ? `Profil` : `Profile` }
         ],
       },
     },

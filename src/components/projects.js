@@ -101,7 +101,7 @@ const projectsData = [
   {
     title: {
       pl: `Silnik grafiki trójwymiarowej`,
-      en: `3D graphgic engine`,
+      en: `3D graphics engine`,
     },
     fluidName: `webGl`,
     description: {
@@ -114,11 +114,11 @@ const projectsData = [
         Podobnie mam z innymi technologiami -- jeśli nie wiem jak działa, to mam wewnętrzną potrzebę się dowiedzieć.
       </>,
       en: <>
-        I don't like to use libraries or framework if I don't know what is inside.
+        I don't like to use libraries or frameworks if I don't know what is inside.
         What makes what is happening. As i wanted to learn <a href="https://threejs.org/">Three.js</a> library for
         drawing three-dimensional things, the lack of the ability to draw in 3D by myself bothered me.
         So, I decided to make my own primitive 3D engine as part of my warm-up.
-        The same to others technologies -- if I don't know how it works, I have inner need to find out.
+        Same with others technologies -- if I don't know how it works, I have inner need to find out.
       </>,
     }
   },
@@ -140,7 +140,7 @@ const projectsData = [
       </>,
       en: <>
         I program basically everyday. I have many ideas, the willingness to learn even more.
-        Many small works have been lost because I didn't have Github account, or saw no point
+        Many small works have been lost because I didn't have Github account, or saw no point in
         to upload projects to it. Finally, I decided to make a website that I would be happy about,
         and where I could run my devlog (polish only, sorry; but maybe in the future...).
         {/* If you know polish, you can look <a href="/">here</a>. */}
@@ -155,7 +155,7 @@ export default ({ langKey }) => {
 
   return <section>
     <h2 className={`h2 boxed-title is-red`}>
-      {langKey === `pl` ? `Projekty coś o mnie mówiące` : `Project that say something about me`}
+      {langKey === `pl` ? `Projekty coś o mnie mówiące` : `Projects that say something about me`}
     </h2>
 
     <div className={styles.projectsWrapper}>

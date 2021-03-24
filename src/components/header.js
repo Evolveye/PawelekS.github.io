@@ -35,7 +35,7 @@ const translation = {
     </p>
     <p>
       If I need something related to software, I just do it.<br />
-      If is it a challenge or something new -- it only encourages me.
+      If it is a challenge or something new -- it only encourages me.
     </p>
   </>,
   pl: <>

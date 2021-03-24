@@ -9,7 +9,7 @@ export const title = {
 
 export const description = {
   pl: `Prosty kreator gifów stworzony gdy chciałem zrozumieć jak zbudowany jest format plików .gif`,
-  en: `Simple GIFs creator made when I wanted to learn how are builded .gif files formats`,
+  en: `Simple GIFs creator made when I wanted to learn how are built .gif files formats`,
 }
 
 export const Component = ({ langKey }) => {

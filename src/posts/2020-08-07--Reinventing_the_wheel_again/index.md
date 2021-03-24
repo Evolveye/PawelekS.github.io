@@ -4,7 +4,7 @@ title: "Jednym commitem pisząc: Reinventing the wheel again"
 author: Paweł Stolarski
 date: 2020-10-14
 categories: [Rozmaitości]
-tags: [blog]
+tags: [Devlog]
 sneakPeek: ''
 ---
 
@@ -19,7 +19,7 @@ Miałem już kilka podejść do tworzenia sobie strony i za każdym razem kończ
 projekt porzucony, wsparcie elementu WebAPI wygasło, za prosta, za brzydka, mało treściwa.
 Teraz jednak liczę na to, że dodając od czasu do czasu swoje myśli na stronie, będzie ona atrakcyjniejsza w odbiorze.
 
-Taka personalna strona z blogiem byłaby dla mnie:
+Taka własny devlog byłaby dla mnie:
  * miejscem moich zawodowych dociekań -- mógłbym chociażby dzielić się wiedzą pozyskaną poprzez pytania do innych
  * miejscem, w które mogę z łatwością odesłać kogoś do napisanego tekstu --
    czy to rozbudowana opinia, która nie nadaje się na czat, czy to opis jakiegoś problemu, *cokolwiek*.
@@ -43,15 +43,15 @@ Stworzyłem więc prostą templatkę (mimo poprzednich linków nie określiłbym
 Pozwoliłem sobie zastosować się do popularnej (raczej; na pewno moim zdaniem dobrej)
 zasady mówiącej o tym, aby napisać kilka treści przed przystąpieniem do publikowania.
 Wyszło to mieszanie. Z jednej strony przygotowałem kilka wpisów, lecz wymagają poprawek.
-Cóż, najważniejsze, że blog nie jest stroną główną. W związku z tym spodziewam się około
-jednego posta na 2 tygodnie. Czas ten jest na tyle optymalny, że będę w stanie w tym czasie
+Cóż, najważniejsze, że devlog nie jest stroną główną. W związku z tym spodziewam się około
+jednego posta na miesiąc lub dwa. Czas ten jest na tyle optymalny, że będę w stanie w tym czasie
 cokolwiek zrobić i to spisać. Możliwe, że będzie to także zależeć od tego, czy znajdą się czytelnicy.
 
 Jedyne co mi pozostaje na ten moment to napisać: **Witam gorąco; cieszy mnie, że to czytasz**.
 
 A gdy o publikacjach mowa, to w oparciu o doświadczenie (niekoniecznie blogowego)
 polecam narzędzie do optymalizacji grafik [Tinypng](https://tinypng.com/) oraz [languagetool]() do sprawdzania pisowni.
-Z tychrze narzędzi korzystam i korzystać zamierzam podczas tutejszego rozpisywania się.
+Z tychże narzędzi korzystam i korzystać zamierzam podczas tutejszego rozpisywania się.
 
 
 ## Niedługo o procesie tworzenia strony
